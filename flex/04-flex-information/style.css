@@ -27,11 +27,17 @@ img {
   justify-content: center;
   background: #eee;
 }
+
 .items {
   display: flex;
-  align-items: center;
+  justify-content: center;
   gap: 52px;
 }
+
 img {
   width: 200px;
+}
+
+body {
+  text-align: center;
 }
