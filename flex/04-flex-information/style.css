@@ -30,4 +30,8 @@ img {
 .items {
   display: flex;
   align-items: center;
+  gap: 52px;
+}
+img {
+  width: 200px;
 }
